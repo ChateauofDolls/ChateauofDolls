@@ -1,9 +1,6 @@
-<p align="center">
-
-## ★ Welcome to my page ★
-Hi babes, I'm Laine! I'm a digital artist who's very passionate about horror and psychological themes within storytelling.
-I'm currently working on developing some of my OCs and writing a draft for my first game project.
-</p>
+<h2 align="center">★ Welcome to my page ★</h2>
+<p align="center">Hi babes, I'm Laine! I'm a digital artist who's very passionate about horror and psychological themes within storytelling.
+I'm currently working on developing some of my OCs and writing a draft for my first game project.</p>
 
 <!--
 **ChateauofDolls/ChateauofDolls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
