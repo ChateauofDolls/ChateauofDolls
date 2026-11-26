@@ -1,6 +1,6 @@
 <p align="center">
 
-<i class="fas fa-star mr-2" style="color:#c72f5b;"></i> ## Welcome to my page 👋
+## Welcome to my page 👋
 
 </p>
 
