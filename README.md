@@ -1,6 +1,6 @@
 <p align="center">
 
-Font=Monospace ## ★ Welcome to my page ★
+## font=Caveat ★ Welcome to my page ★
 Hi babes, I'm Laine! I'm a digital artist who's very passionate about horror and psychological themes within storytelling.
 I'm currently working on developing some of my OCs and writing a draft for my first game project.
 </p>
