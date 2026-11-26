@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+
+<i class="fas fa-star mr-2" style="color:#c72f5b;"></i> ## Welcome to my page 👋
+
+</p>
 
 <!--
 **ChateauofDolls/ChateauofDolls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
