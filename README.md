@@ -1,6 +1,3 @@
-div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&color=C72F5B&center=true&vCenter=true&width=500&lines=★+Welcome+to+my+page+★" alt="Welcome to my page">
-</div>
 <h2 align="center">★ Welcome to my page ★</h2>
 <p align="center">Hi babes, I'm Laine! I'm a digital artist who's very passionate about horror and psychological themes within storytelling.
 I'm currently working on developing some of my OCs and writing a draft for my first game project.</p>
